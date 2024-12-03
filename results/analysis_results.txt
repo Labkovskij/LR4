@@ -1,0 +1,11 @@
+Average Score: 24.1875
+Best Product: Product A
+Detailed Scores:
+Product A: 44.5
+Product B: 39.0
+Product C: 32.5
+Product D: 25.5
+Product E: 19.5
+Product F: 14.5
+Product G: 10.5
+Product H: 7.5
